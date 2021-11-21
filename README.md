@@ -19,5 +19,5 @@ You should already have MS Excel, right? If you don't have it yet, don't worry, 
 
 ## Other useful Software or Online Tools
 *These tools are powerful and can further enhance your productivity. But we should not have enough time to demonstrate.*
-## Notepad++
+### Notepad++
 Notepad++ is a free source code editor and Notepad replacement that supports several languages. Notepad++ has a significant higher execution speed when working with large files. [Download for Windows](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.1/npp.8.1.9.1.Installer.x64.exe).
