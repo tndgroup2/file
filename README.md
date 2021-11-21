@@ -2,7 +2,6 @@
 **This is a list of the files we will use today.**
 
 ## Brave Browser
-
 *It's the Browser we will use today. Other Chromium-based browsers may also be compatible, but the steps may be slightly different.*
 
 Get it from [Brave Browser Official Website](https://brave.com "Brave Browser Official"). Or download the offline standalone installer for [Windows](https://github.com/brave/brave-browser/releases/download/v1.32.106/BraveBrowserStandaloneSetup.exe "Windows Standalone Installer") or [macOS](https://github.com/brave/brave-browser/releases/download/v1.32.106/Brave-Browser-x64.dmg "macOS Installer").
