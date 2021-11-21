@@ -12,3 +12,7 @@ Get it from [Brave Browser Official Website](https://brave.com "Brave Browser Of
 
 Get it from [this repo](https://github.com/tndgroup2/file/raw/main/TableCaptureUnlocked.zip "Table Capture Unlocked").
 > This is not a completely free extension, the developer only provides basic features for the free version. For demonstration purposes, we provide here a temporary full version. If you need advanced features, please [get the original version here](https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcplhebcmeop "Table Capture from Chrome Web Store") and buy it.
+
+## Microsoft Office Excel
+*emmm... It's Excel.*
+You should already have MS Excel, right? If you don't have it yet, don't worry, we've brought the Excel installation media. If you need to install on another computer after the workshop, please check [this page provided by UM ICTO](https://icto.um.edu.mo/software/microsoft-office-365-proplus/ "Microsoft Office 365 ProPlus").
