@@ -14,10 +14,17 @@ Get it from [this repo](https://github.com/tndgroup2/file/raw/main/TableCaptureU
 
 ## Microsoft Office Excel
 *emmm... It's Excel.*
+
 You should already have MS Excel, right? If you don't have it yet, don't worry, we've brought the Excel installation media for Windows PC. If you need to install on another computer after the workshop, please check [this page](https://icto.um.edu.mo/software/microsoft-office-365-proplus/ "Microsoft Office 365 ProPlus") provided by UM ICTO (UMPASS Login Required).
+
+## Excel Data Sample
+*This excel file will be used in the second half of the workshop.*
+
+2018~2022 Times Higher Education (THE) World University Rankings - Macao<br>[Download THE_WUR_MAC.xlsx](https://github.com/tndgroup2/file/raw/main/THE_WUR_MAC.xlsx)
 
 ## Other useful Software or Online Tools
 *These tools are powerful and can further enhance your productivity. But we should not have enough time to demonstrate.*
+
 ### Notepad++
 Notepad++ is a free source code editor and Notepad replacement that supports several languages. Notepad++ has a significant higher execution speed when working with large files. [Download for Windows](https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.9.1/npp.8.1.9.1.Installer.x64.exe).
 
