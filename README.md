@@ -20,7 +20,10 @@ You should already have MS Excel, right? If you don't have it yet, don't worry, 
 ## Excel Data Sample
 *This excel file will be used in the second half of the workshop.*
 
-2018 ~ 2022 Times Higher Education (THE) World University Rankings<br>[Download THE_WUR_MAC.xlsx](https://github.com/tndgroup2/file/raw/main/THE_WUR_MAC.xlsx)
+2018 ~ 2022 Times Higher Education (THE) World University Rankings<br>
+[Download THE_WUR_MAC.xlsx](https://github.com/tndgroup2/file/raw/main/THE_WUR_MAC.xlsx)<br>
+
+[Download the template THE_WUR_MAC_noAns.xlsx](https://github.com/tndgroup2/file/raw/main/THE_WUR_MAC_noAns.xlsx)
 
 ## Other useful Software or Online Tools
 *These tools are powerful and can further enhance your productivity. But we should not have enough time to demonstrate.*
